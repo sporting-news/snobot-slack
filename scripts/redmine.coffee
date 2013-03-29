@@ -230,7 +230,7 @@ module.exports = (robot) ->
   # Listens to #NNNN and gives ticket info
   robot.hear /.*(#(\d+)).*/, (msg) ->
     id = msg.match[1].replace /#/, ""
-        
+
     ignoredUsers = process.env.HUBOT_REDMINE_IGNORED_USERS or ""
 
     #Ignore cetain users, like Redmine plugins
@@ -248,7 +248,7 @@ module.exports = (robot) ->
         return false
 
       issue = data.issue
-      
+
       url = "#{redmine.url}/issues/#{id}"
       msg.send "#{issue.tracker.name} <a href=\"#{url}\">##{issue.id}</a> (#{issue.project.name}): #{issue.subject} (#{issue.status.name}) [#{issue.priority.name}]"
 
