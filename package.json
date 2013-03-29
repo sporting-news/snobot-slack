@@ -19,7 +19,6 @@
     "hubot-scripts": ">= 2.4.2",
     "optparse":      "1.0.3",
     "hubot-hipchat": ">=2.4.5",
-    "chartbeat": ">=0.0.0",
     "githubot": "0.2.0",
     "htmlparser": "1.7.6",
     "jquery": "",
