@@ -1,3 +1,8 @@
+# SportingNews HipChat Bot
+
+This is snobot - a modified version of Github's hubot.
+The default readme is below.
+
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
