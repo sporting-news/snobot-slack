@@ -15,6 +15,7 @@
   },
 
   "dependencies": {
+    "ntwitter" : "https://github.com/sebhildebrandt/ntwitter/tarball/master",
     "hubot":         ">=2.4.8",
     "hubot-scripts": ">= 2.4.2",
     "optparse":      "1.0.3",
