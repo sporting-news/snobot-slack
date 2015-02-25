@@ -8,6 +8,7 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-http-status",
+  "hubot-jira-spy",
   "hubot-maps",
   "hubot-pugme",
   "hubot-qr",
