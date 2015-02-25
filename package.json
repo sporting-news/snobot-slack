@@ -15,7 +15,6 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-http-status": "^0.2.0",
-    "hubot-maps": "https://github.com/sporting-news/hubot-maps/archive/0.0.1p.tar.gz",
     "hubot-pugme": "^0.1.0",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
