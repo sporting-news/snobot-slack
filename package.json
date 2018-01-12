@@ -17,7 +17,6 @@
     "hubot-http-status": "^0.2.0",
     "hubot-jira-spy": "https://github.com/sporting-news/hubot-jira-spy/archive/0.1.1.tar.gz",
     "hubot-maps": "https://github.com/sporting-news/hubot-maps/archive/0.0.2.tar.gz",
-    "hubot-pugme": "^0.1.0",
     "hubot-qr": "0.0.2",
     "hubot-redis-brain": "0.0.2",
     "hubot-rules": "^0.1.0",
