@@ -8,7 +8,7 @@
   "hubot-help",
   "hubot-heroku-keepalive",
   "hubot-http-status",
-  "hubot-jira-links",
+  "hubot-jira-linkifier",
   "hubot-jira-spy",
   "hubot-maps",
   "hubot-qr",
