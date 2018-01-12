@@ -6,6 +6,7 @@
   "description": "Sporting News Ops Bot",
   "dependencies": {
     "hubot": "^2.11.1",
+    "hubot-answers": "^0.2.2",
     "hubot-auth": "^1.2.0",
     "hubot-business-cat": "^1.5.14",
     "hubot-calculator": "^0.4.0",
