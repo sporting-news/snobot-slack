@@ -15,7 +15,7 @@
     "hubot-help": "^0.1.1",
     "hubot-heroku-keepalive": "0.0.4",
     "hubot-http-status": "^0.2.0",
-    "hubot-jira-linkifier": "https://github.com/xkickflip/hubot-jira-linkifier/archive/master.zip",
+    "hubot-jira-links": "^1.0.8",
     "hubot-jira-spy": "https://github.com/sporting-news/hubot-jira-spy/archive/0.1.1.tar.gz",
     "hubot-maps": "https://github.com/sporting-news/hubot-maps/archive/0.0.2.tar.gz",
     "hubot-qr": "0.0.2",
