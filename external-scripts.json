@@ -1,6 +1,7 @@
 [
   "hubot-answers",
   "hubot-auth",
+  "hubot-bitbucket-pr",
   "hubot-business-cat",
   "hubot-calculator",
   "hubot-chartbeat",
